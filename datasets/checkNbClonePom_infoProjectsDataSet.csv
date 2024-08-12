@@ -1,0 +1,463 @@
+name,gitUrl,commitID,repoName,clone,pomExist,hasHierarchicalPom,lastCommitDate
+Vatavuk:excel-io,https://github.com/Vatavuk/excel-io.git,4d1f3a3c55d2f2356bc597719b58757807247b83,excel-io,true,true,false,2018-03-27 18:23:22 +0200
+eBay:cors-filter,https://github.com/eBay/cors-filter.git,f782f4cd0a67a3c814a92b0907674fd93aa96dbe,cors-filter,true,true,false,2016-12-28 19:14:56 -0800
+martin-lizner:trezor-ssh-agent,https://github.com/martin-lizner/trezor-ssh-agent.git,facdd7aac735cc77c475720dd774e1e7b71f36b2,trezor-ssh-agent,true,true,false,2016-12-23 10:59:46 +0100
+jbaliuka:x4j-analytic,https://github.com/jbaliuka/x4j-analytic.git,a51829224a489093f0c3c08000ab38d7da9eb550,x4j-analytic,true,true,true,
+spotify:semantic-metrics,https://github.com/spotify/semantic-metrics.git,a58f4bf489d67752b6d8af2335754f8512c28aaf,semantic-metrics,true,true,true,
+wouterd:docker-maven-plugin,https://github.com/wouterd/docker-maven-plugin.git,ea15f9e6c273989bb91f4228fb52cb73d00e07b3,docker-maven-plugin,true,true,true,
+getheimdall:heimdall,https://github.com/getheimdall/heimdall.git,7b3a19d1dd441452eb73245576ea5f0d7f7f5a78,heimdall,true,true,true,
+geosolutions-it:jai-ext,https://github.com/geosolutions-it/jai-ext.git,87cb34fdbbe6a7b68aea3996cab56a177c8a894c,jai-ext,true,true,true,
+aditzel:spring-security-csrf-filter,https://github.com/aditzel/spring-security-csrf-filter.git,341a2104301c980db7d8075f589044b48830c29b,spring-security-csrf-filter,true,true,false,2014-06-01 11:44:11 -0500
+mybatis:spring-boot-starter,https://github.com/mybatis/spring-boot-starter.git,bd9629c22aee3d5887982a5b3dc6351f44462d0c,spring-boot-starter,true,true,true,
+xuminwlt:j360-tools,https://github.com/xuminwlt/j360-tools.git,2e031c7f26fb0f2377d73b0caee08447e2a71499,j360-tools,true,true,false,2020-01-11 11:40:02 +0800
+difi:oxalis,https://github.com/difi/oxalis.git,7cf1cc269961b271e89b782c54d2dfceb7340b75,oxalis,true,true,true,
+hotchemi:LruCache,https://github.com/hotchemi/LruCache.git,410539213c44b8794ca4111f678714a1c2395749,LruCache,true,true,false,2015-01-16 17:50:56 +0900
+yrucrew:ssm-demo,https://github.com/yrucrew/ssm-demo.git,8a0469791663b95ce0ffc77544ea86cf860a8c75,ssm-demo,true,true,false,2023-02-11 12:52:53 +0800
+atteo:xml-combiner,https://github.com/atteo/xml-combiner.git,f57893f375dd50b7214c6c91e00fee6427bc2ae1,xml-combiner,true,true,false,2021-05-08 00:58:16 +0200
+americanexpress:nodes,https://github.com/americanexpress/nodes.git,9bc0d442e67248d0899429ae8548340c055ee50f,nodes,true,true,true,
+petterobam:database-oop,https://github.com/petterobam/database-oop.git,d7854b84d08d7c0f3b07a43398f418035628e6a2,database-oop,true,true,true,
+casbin:jcasbin,https://github.com/casbin/jcasbin.git,536d194a72f2643fd4808177f1714f968daf2249,jcasbin,true,true,false,2024-03-27 23:41:15 +0800
+zeroturnaround:maven-jrebel-plugin,https://github.com/zeroturnaround/maven-jrebel-plugin.git,832d2662f3a4033dbe6b32e1663aa6b3fc56c501,maven-jrebel-plugin,true,true,false,2023-06-19 07:39:25 +0000
+smooks:smooks,https://github.com/smooks/smooks.git,15162b4d7ebb81a2120ef591b6164266933fa75c,smooks,true,true,true,
+phiz71:vertx-swagger,https://github.com/phiz71/vertx-swagger.git,8f3d72a8ad41796a9e434926ca3cccca72eb5990,vertx-swagger,true,true,true,
+zalando:problem-spring-web,https://github.com/zalando/problem-spring-web.git,da31acb922e486cebeff37d9fbd96322d70e4fc8,problem-spring-web,true,true,true,
+RankSys:RankSys,https://github.com/RankSys/RankSys.git,52ee1fc0fafbb2cf64993039f3da525ca7d2a72a,RankSys,true,true,true,
+FasterXML:jackson-dataformat-xml,https://github.com/FasterXML/jackson-dataformat-xml.git,22e305c49b5a4ebc6ff01132f9ff24a5e316915f,jackson-dataformat-xml,true,true,false,2024-05-17 21:34:39 -0700
+toolbox4minecraft:amidst,https://github.com/toolbox4minecraft/amidst.git,86ffd6004a3ab2a88b9325de420a596665f0df75,amidst,true,true,true,
+ashwanthkumar:slack-java-webhook,https://github.com/ashwanthkumar/slack-java-webhook.git,3694aae5fd9d9bb30ab2c118881c3761996c8824,slack-java-webhook,true,true,false,2020-10-13 07:42:53 +0530
+SonarSource:sonar-php,https://github.com/SonarSource/sonar-php.git,f0a6d42e99d785ed8024bb19daad1276edf721a5,sonar-php,true,true,true,
+gwtbootstrap3:gwtbootstrap3,https://github.com/gwtbootstrap3/gwtbootstrap3.git,66b482b4ec5db54931ff76c4a66454ea4d39637f,gwtbootstrap3,true,true,true,
+davidpelfree:sjxlsx,https://github.com/davidpelfree/sjxlsx.git,3b0dff6deb325f3663260bf66d1240eebf6b95e5,sjxlsx,true,true,false,2015-01-18 20:03:21 +0200
+neoremind:dynamic-proxy,https://github.com/neoremind/dynamic-proxy.git,bedb8b247336d478fc954ad14c47871770b99d14,dynamic-proxy,true,true,false,2016-07-12 22:55:40 +0800
+mojohaus:animal-sniffer,https://github.com/mojohaus/animal-sniffer.git,95fe4f57be3fc999f1114fce3aa9d861191f72d4,animal-sniffer,true,true,true,
+pierredavidbelanger:logback-awslogs-appender,https://github.com/pierredavidbelanger/logback-awslogs-appender.git,1cda000fb70d83a51030929f46bbe885364b9659,logback-awslogs-appender,true,true,false,2021-08-17 08:39:12 -0400
+sachin-handiekar:jInstagram,https://github.com/sachin-handiekar/jInstagram.git,82834b0ea2629913c8f2c4a76f949505c92093b9,jInstagram,true,true,false,2019-03-20 17:35:55 +0000
+zeroturnaround:zt-process-killer,https://github.com/zeroturnaround/zt-process-killer.git,f528d9e5f5795554b871bd7bde0996cec09289d9,zt-process-killer,true,true,false,2023-08-03 14:46:55 +0300
+jcabi:jcabi-manifests,https://github.com/jcabi/jcabi-manifests.git,ae607773aee453ed8ec75f6a77986b9d5847bdd7,jcabi-manifests,true,true,false,2024-04-15 21:56:26 +0000
+centic9:jgit-cookbook,https://github.com/centic9/jgit-cookbook.git,d923e18b2ce2e55761858fd2e8e402dd252e0766,jgit-cookbook,true,true,false,2024-04-21 19:26:52 +0200
+dropwizard:dropwizard-flyway,https://github.com/dropwizard/dropwizard-flyway.git,c6e33c9e3e01aa3cb1167bfb5217a2933f957755,dropwizard-flyway,true,true,false,2024-05-27 04:48:15 +0000
+vitalidze:chromecast-java-api-v2,https://github.com/vitalidze/chromecast-java-api-v2.git,c1358030b1b6afa11dc2a83a0049783e7b5bef7e,chromecast-java-api-v2,true,true,false,2020-11-20 17:28:22 +0300
+jcgay:maven-color,https://github.com/jcgay/maven-color.git,867eb67b296aaf336049e6eada92d49bfd50e9de,maven-color,true,true,true,
+simplenlg:simplenlg,https://github.com/simplenlg/simplenlg.git,47686090f52c5bf873f77fa6139c34aac1ea8ec3,simplenlg,true,true,false,2022-09-14 17:52:24 +0200
+tranchis:xsd2thrift,https://github.com/tranchis/xsd2thrift.git,bed6227265c3dda6176940b085118e5341f07ffa,xsd2thrift,true,true,false,2016-11-30 12:03:23 +0100
+lukas-krecan:JsonUnit,https://github.com/lukas-krecan/JsonUnit.git,04496d455fed4228c26b4ec2b9a095fec6ab7a6a,JsonUnit,true,true,true,
+QualInsight:qualinsight-plugins-sonarqube-smell,https://github.com/QualInsight/qualinsight-plugins-sonarqube-smell.git,61c37a9d89e251bcee42e698b2706e6bd26d66ca,qualinsight-plugins-sonarqube-smell,true,true,true,
+jnidzwetzki:bitfinex-v2-wss-api-java,https://github.com/jnidzwetzki/bitfinex-v2-wss-api-java.git,411866622233c1c54815e385be50a0f1db63d7d7,bitfinex-v2-wss-api-java,true,true,false,2024-04-21 14:19:35 +0200
+neoremind:easy-mapper,https://github.com/neoremind/easy-mapper.git,372d3fa5b72cf5fb6f90cc4c10ada2c96b016a1b,easy-mapper,true,true,true,
+eclipse-ee4j:tyrus,https://github.com/eclipse-ee4j/tyrus.git,bd63f2afbd12bd7b05c8ffc70dbf96d5d72a2f5e,tyrus,true,true,true,
+giltene:jHiccup,https://github.com/giltene/jHiccup.git,d2e18b8e9f42c60e67633bf7fc00b91cd321136b,jHiccup,true,true,false,2021-09-19 13:46:48 -0700
+igniterealtime:Openfire,https://github.com/igniterealtime/Openfire.git,a8f983fce12bf66bcce6c29e382255d21a1696b4,Openfire,true,true,true,
+apache:commons-jexl,https://github.com/apache/commons-jexl.git,395516851e1ffdd241220bb45a19248a0464dfa1,commons-jexl,true,true,false,2024-05-25 10:46:45 +0200
+vanilladb:vanillacore,https://github.com/vanilladb/vanillacore.git,03e1f2df49bb9664c8bdae11cf911f56b74bbc57,vanillacore,true,true,false,2023-04-30 14:40:34 +0800
+Blackdread:canon-sdk-java,https://github.com/Blackdread/canon-sdk-java.git,41f75c11a1d41bf66558250e40716052bf48a240,canon-sdk-java,true,true,true,
+pircbotx:pircbotx,https://github.com/pircbotx/pircbotx.git,8770da9677523d3f12ad06e4ff9a90a87bfed1d0,pircbotx,true,true,false,2024-01-02 15:34:53 +0100
+OpenFeign:feign,https://github.com/OpenFeign/feign.git,a2602bf0088e789aa4806801ceb215a2b3a135b3,feign,true,true,true,
+ferstl:depgraph-maven-plugin,https://github.com/ferstl/depgraph-maven-plugin.git,79879cb08a11a89222e02cdfea4f3ab4331c5d07,depgraph-maven-plugin,true,true,true,
+knowm:Sundial,https://github.com/knowm/Sundial.git,b1e5a2ea1f6ef6f122bc6f1eb5bda32d3a6a85b7,Sundial,true,true,false,2024-04-18 22:37:23 +0200
+johnnymongiat:oath,https://github.com/johnnymongiat/oath.git,3fea7a43b213761158835ebb36ee0999afaa1c02,oath,true,true,true,
+jwtk:jjwt,https://github.com/jwtk/jjwt.git,754324879d55a374856e9e5d48e028b906fa293a,jjwt,true,true,true,
+sudohippie:throttle,https://github.com/sudohippie/throttle.git,287def25c13ca2f0d857e6af384520906d9c68cb,throttle,true,true,false,2016-03-15 20:08:51 -0700
+FasterXML:jackson-databind,https://github.com/FasterXML/jackson-databind.git,590f754864d1e1db403c55d2a226bf876fc3809b,jackson-databind,true,true,false,2024-05-22 18:57:27 -0700
+nbogojevic:kafka-operator,https://github.com/nbogojevic/kafka-operator.git,4e368beb09d81d0c56c75666d9fc65224e3c2afd,kafka-operator,true,true,false,2019-07-11 16:12:01 +0200
+patrickfav:bcrypt,https://github.com/patrickfav/bcrypt.git,2125d96bb9925f729f8be12aee6a96fd53a49597,bcrypt,true,true,true,
+addthis:stream-lib,https://github.com/addthis/stream-lib.git,5a3bc87c5314f7771ea3968e9015a3d25536343e,stream-lib,true,true,false,2019-08-27 17:44:03 -0400
+elasticjob:elastic-job-lite,https://github.com/elasticjob/elastic-job-lite.git,d94ce276d9763509cf86246f809d2e714e8500a5,elastic-job-lite,true,true,true,
+vert-x3:vertx-sync,https://github.com/vert-x3/vertx-sync.git,cec8c081b10913368e6f7bb591e0750026990243,vertx-sync,true,true,false,2024-05-24 13:49:50 +0200
+openzipkin-contrib:brave-opentracing,https://github.com/openzipkin-contrib/brave-opentracing.git,2d68569cc395f4432ce1c99003fc286322b1970b,brave-opentracing,true,true,true,
+cloudevents:sdk-java,https://github.com/cloudevents/sdk-java.git,4d204cef89f6f4fb217a3488869bb0e24454fb93,sdk-java,true,true,true,
+markhobson:hamcrest-compose,https://github.com/markhobson/hamcrest-compose.git,0f0a8d5887be250f9d2b35ea1ecdffb5d369e0ae,hamcrest-compose,true,true,true,
+anshooarora:extentreports-java,https://github.com/anshooarora/extentreports-java.git,925c18aac5e7fe935676822f33803ab0444208e6,extentreports-java,true,true,false,2020-07-17 06:49:37 -0700
+ExpediaDotCom:adaptive-alerting,https://github.com/ExpediaDotCom/adaptive-alerting.git,e4293905526a9f22dea6a5ce2677d1264d39f79e,adaptive-alerting,true,true,true,
+rometools:rome,https://github.com/rometools/rome.git,6b4a7e89cbf67dab0be32e7517f3d8ae3c2b4d75,rome,true,true,true,
+SonarSource:sonar-scanner-maven,https://github.com/SonarSource/sonar-scanner-maven.git,b98e10c02972b04fb3269f068e63dc245e1bc4a3,sonar-scanner-maven,true,true,true,
+paypal:sdk-core-java,https://github.com/paypal/sdk-core-java.git,,sdk-core-java,false,false,true,
+ronmamo:reflections,https://github.com/ronmamo/reflections.git,f5514b125c4f4b58e92beb0979a40ddce48d5be1,reflections,true,true,false,2023-06-16 00:15:48 +0700
+FasterXML:jackson-modules-java8,https://github.com/FasterXML/jackson-modules-java8.git,dc4d47def5ed7515d159feaa018e19143b24fa66,jackson-modules-java8,true,true,true,
+ltearno:hexa.tools,https://github.com/ltearno/hexa.tools.git,604c804901b1bb13fe10b3823cc4a639f8993363,hexa.tools,true,true,true,
+opentracing-contrib:java-kafka-client,https://github.com/opentracing-contrib/java-kafka-client.git,31ce5260279c2cadf3d69c0acbd50f024afe4660,java-kafka-client,true,true,true,
+mgormley:pacaya,https://github.com/mgormley/pacaya.git,786294cbac7cc65dbc32210c10acc32ed0c69233,pacaya,true,true,false,2017-07-06 09:08:51 -0400
+sofastack:sofa-tracer,https://github.com/sofastack/sofa-tracer.git,76e05747c6ea3291c56586d1ddc7788c9f35aad9,sofa-tracer,true,true,true,
+zalando:failsafe-actuator,https://github.com/zalando/failsafe-actuator.git,4b286761ebf817016ed6092645dfcbd9138a34fd,failsafe-actuator,true,true,false,2021-09-21 10:46:44 +0200
+penberg:fjord,https://github.com/penberg/fjord.git,e4acdda6681d162567cb817c49674d3050dd7d75,fjord,true,true,false,2015-04-23 21:32:38 +0300
+osglworks:java-di,https://github.com/osglworks/java-di.git,43d0249beb5b726f44393aa4d9eab837525c64bf,java-di,true,true,false,2020-06-27 12:56:03 +1000
+augustd:burp-suite-error-message-checks,https://github.com/augustd/burp-suite-error-message-checks.git,d60247f69bc5fb9c9ef8bf8430b5b30fdc23e503,burp-suite-error-message-checks,true,true,false,2023-12-15 01:56:54 -0800
+jsonld-java:jsonld-java,https://github.com/jsonld-java/jsonld-java.git,4a7305f26af38b47336fe28ba506a5f2ce0aae43,jsonld-java,true,true,true,
+cassiomolin:jersey-jwt,https://github.com/cassiomolin/jersey-jwt.git,eb6bc8cbc3400ed75c733d7c4dccd3e7135c9aac,jersey-jwt,true,true,false,2020-01-15 14:45:33 +0000
+git-commit-id:maven-git-commit-id-plugin,https://github.com/git-commit-id/maven-git-commit-id-plugin.git,a27ccf9ec9cc80680366b91de6a48e73a2eba631,maven-git-commit-id-plugin,true,true,false,2024-05-27 22:05:09 +0200
+GoogleCloudPlatform:appengine-tck,https://github.com/GoogleCloudPlatform/appengine-tck.git,6ea21bec33ccea2649df187fac06799a63e02725,appengine-tck,true,true,true,
+orbisgis:cts,https://github.com/orbisgis/cts.git,379f2e34d7c4f329d70ca1e51c89107fa9450577,cts,true,true,false,2024-01-02 18:01:02 +0100
+OpenGamma:Strata,https://github.com/OpenGamma/Strata.git,2c097d0bf95aaf0dc9b8e2d8a0a29715fddd36bd,Strata,true,true,true,
+rcarz:jira-client,https://github.com/rcarz/jira-client.git,868a5ca8977e0c13b792aeed7a793d55cea743ec,jira-client,true,true,false,2017-07-02 12:30:38 -0700
+atomix:copycat,https://github.com/atomix/copycat.git,c90b88ccd5c63d6ea0b49fb77c25e2f3272a7b10,copycat,true,true,true,
+letcheng:ProxyPool,https://github.com/letcheng/ProxyPool.git,4b5144d917dbc31c7b9a2d78135a52a59da9c313,ProxyPool,true,true,false,2017-03-04 21:45:02 +0800
+tracee:tracee,https://github.com/tracee/tracee.git,15a68e435248f57757beb8ceac6db5b7f6035bb3,tracee,true,true,true,
+jhalterman:lyra,https://github.com/jhalterman/lyra.git,3282627d83e2a939d7f540ce0249728cce08eea4,lyra,true,true,false,2023-04-11 18:44:51 -0700
+opentracing-contrib:java-jdbc,https://github.com/opentracing-contrib/java-jdbc.git,6722745cbbd61fce8550dd8e1e0d8a828a1e7a3c,java-jdbc,true,true,false,2021-07-21 11:04:03 +0800
+spotify:dataenum,https://github.com/spotify/dataenum.git,540464b8b2dfa52282722ab819d9ba27c1be66e6,dataenum,true,true,true,
+jdillon:mvnsh,https://github.com/jdillon/mvnsh.git,06a25d4240a87c6f6e972db3239d56125ddb95b0,mvnsh,true,true,true,
+sofastack:sofa-acts,https://github.com/sofastack/sofa-acts.git,a84724be46c7a410967c503fbd378c22d7afa7dc,sofa-acts,true,true,true,
+astefanutti:metrics-aspectj,https://github.com/astefanutti/metrics-aspectj.git,8af3eba92525b66cf07bdca1d521b0e2899eb921,metrics-aspectj,true,true,true,
+ctran:TinyRadius,https://github.com/ctran/TinyRadius.git,c5d4463c32bb5142a4fa5f8526b4a93f24afacb2,TinyRadius,true,true,false,2022-02-02 05:42:53 +0000
+LWJGLX:lwjgl3-awt,https://github.com/LWJGLX/lwjgl3-awt.git,2391a4bfb8b124b2ebc182bfc5f9c49f64ccb1ca,lwjgl3-awt,true,true,false,2024-04-08 23:55:49 -0400
+FasterXML:woodstox,https://github.com/FasterXML/woodstox.git,7aa010e672d1bb7d81b4650a71705cb2bb524f98,woodstox,true,true,false,2024-04-29 21:10:07 -0700
+SonarSource:sonar-scanner-cli,https://github.com/SonarSource/sonar-scanner-cli.git,7e070fb6d45225a283bf4a44c431251af3673635,sonar-scanner-cli,true,true,true,
+gmr:rabbitmq-flume-plugin,https://github.com/gmr/rabbitmq-flume-plugin.git,b4c9db81cd64ef84f58d32047ee753c0994f65a3,rabbitmq-flume-plugin,true,true,false,2020-02-25 15:51:11 -0500
+pagehelper:Mybatis-PageHelper,https://github.com/pagehelper/Mybatis-PageHelper.git,30dd0f31e05513f5c6782c241ad10d8e17bf2391,Mybatis-PageHelper,true,true,false,2024-01-30 13:08:12 +0800
+sps:mustache-spring-view,https://github.com/sps/mustache-spring-view.git,84f7979456c4327dcee43229838be0380978cc58,mustache-spring-view,true,true,false,2016-11-09 21:25:55 +0000
+searchisko:elasticsearch-river-jira,https://github.com/searchisko/elasticsearch-river-jira.git,487a9d8804165ad02264f4300b3ebd11346df6df,elasticsearch-river-jira,true,true,false,2018-04-17 12:49:30 +0200
+mitre:HTTP-Proxy-Servlet,https://github.com/mitre/HTTP-Proxy-Servlet.git,b953eeb0842fcadc6a584014611b7b0782f145f8,HTTP-Proxy-Servlet,true,true,false,2023-08-05 23:13:05 -0400
+QianmiOpen:dubbo-remoting-netty4,https://github.com/QianmiOpen/dubbo-remoting-netty4.git,9817f20ac62918c8b52b22a78ae7de18a203497a,dubbo-remoting-netty4,true,true,false,2015-04-08 19:11:20 +0800
+zalando-incubator:catwatch,https://github.com/zalando-incubator/catwatch.git,27a659abadfc86aefc4bfc742c7ef4cb3d6b55a6,catwatch,true,true,true,
+svendiedrichsen:jollyday,https://github.com/svendiedrichsen/jollyday.git,a86a9d7cb6ce74b096d33260aa291ab33370d0de,jollyday,true,true,false,2022-07-12 12:13:09 +0200
+xiaolongzuo:everyone-java-blog,https://github.com/xiaolongzuo/everyone-java-blog.git,dcf0ac348ce946e9bb02a952334d28114f24f6cd,everyone-java-blog,true,true,true,
+hcoles:pitest,https://github.com/hcoles/pitest.git,dd84e8bad21e410b91c83674243079832935bc03,pitest,true,true,true,
+apache:commons-configuration,https://github.com/apache/commons-configuration.git,15e6ec62f1b309bab0bffd139a4790564dc3ca73,commons-configuration,true,true,false,2024-05-24 13:42:23 -0400
+rapid7:le_java,https://github.com/rapid7/le_java.git,a349a08b0f43b027cfc261c8e56cea2ed3cc5c51,le_java,true,true,false,2021-12-12 00:51:20 +0000
+radkovo:Pdf2Dom,https://github.com/radkovo/Pdf2Dom.git,e19af5b44675c8a60a5c3597517f065ebaef88ec,Pdf2Dom,true,true,false,2022-10-17 11:27:48 +0200
+lightblue-platform:lightblue-core,https://github.com/lightblue-platform/lightblue-core.git,57ce258c4ef58ea0a5b6413d6da649c0ef2f33cc,lightblue-core,true,true,true,
+snowflakedb:snowflake-jdbc,https://github.com/snowflakedb/snowflake-jdbc.git,d84639c863bb83c7e4fdfbe18cd0d5f7980f1846,snowflake-jdbc,true,true,true,
+swagger-api:swagger-socket,https://github.com/swagger-api/swagger-socket.git,116be447b3ecefa612b7bad8588d943f6ddc1b9d,swagger-socket,true,true,true,
+DarLiner:weixin-java-tools,https://github.com/DarLiner/weixin-java-tools.git,2d665723022eceb30aaf8e7bd8bb77fd5bee8914,weixin-java-tools,true,true,true,
+timgifford:maven-buildtime-extension,https://github.com/timgifford/maven-buildtime-extension.git,345a912142de926e60e823a2a53ae05184a1a8db,maven-buildtime-extension,true,true,true,
+aragozin:jvm-tools,https://github.com/aragozin/jvm-tools.git,4321b54dc0b4f9abc6d1c6f48c884162659fde10,jvm-tools,true,true,true,
+Esri:geometry-api-java,https://github.com/Esri/geometry-api-java.git,020a1a9f6e1126663a0a669095e61d265ca95019,geometry-api-java,true,true,false,2024-04-16 09:53:36 -0700
+v12technology:fluxtion,https://github.com/v12technology/fluxtion.git,97c1b279a07846d59f0b4afa7e23f9a7b8b625cc,fluxtion,true,true,true,
+dropwizard:metrics,https://github.com/dropwizard/metrics.git,3cc3d4d22f33ab804c8c45bcf02d5890e5323d20,metrics,true,true,true,
+google:jimfs,https://github.com/google/jimfs.git,aecbdf6d3e4717feb318438821ad982689a9618e,jimfs,true,true,true,
+ligboy:retrofit-converter-fastjson,https://github.com/ligboy/retrofit-converter-fastjson.git,9f120ccef2ff88064c7e164557e1699fc17bafca,retrofit-converter-fastjson,true,true,true,
+wensiqun:asmsupport,https://github.com/wensiqun/asmsupport.git,b3933a900c6d51046d402969ce897e5549eea914,asmsupport,true,true,true,
+fridujo:rabbitmq-mock,https://github.com/fridujo/rabbitmq-mock.git,54ace0e2b0ad4f2b079a773723b5322bc5099adb,rabbitmq-mock,true,true,true,
+PhantomThief:model-view-builder,https://github.com/PhantomThief/model-view-builder.git,835417ad9c8e7677610010569f281d2f8b341e16,model-view-builder,true,true,false,2022-02-23 16:28:41 +0800
+highj:highj,https://github.com/highj/highj.git,2e18c459904833ef4928558859193c8c9ea54927,highj,true,true,false,2022-04-16 18:25:27 +0200
+github:maven-plugins,https://github.com/github/maven-plugins.git,8d6d49393d1453be709ecc4cfe87f41f2081f5c5,maven-plugins,true,true,true,
+jingweno:gaffer,https://github.com/jingweno/gaffer.git,5704f4de1d438cc6527f7f4b5a439940607ccd54,gaffer,true,true,false,2015-05-07 11:49:56 -0700
+mojohaus:appassembler,https://github.com/mojohaus/appassembler.git,16e6664fb0b11cc040383bc7cf22c51ac7c9a831,appassembler,true,true,true,
+geckoboard-java-api:highchart-java-api,https://github.com/geckoboard-java-api/highchart-java-api.git,,highchart-java-api,false,false,true,
+strepsirrhini-army:chaos-lemur,https://github.com/strepsirrhini-army/chaos-lemur.git,b496cd5083feae742b110f67bf5deedbd90938c2,chaos-lemur,true,true,false,2018-08-10 13:59:33 -0700
+petterobam:mds2index.html,https://github.com/petterobam/mds2index.html.git,2758730f51895a6e5db6a3c043844e0c258abf21,mds2index.html,true,true,false,2021-07-07 23:04:48 +0800
+fivesmallq:web-data-extractor,https://github.com/fivesmallq/web-data-extractor.git,c2a12c84080e56121d85fa2fa5cd19ec48a82bb9,web-data-extractor,true,true,false,2022-09-02 17:44:43 +0800
+sangupta:bloomfilter,https://github.com/sangupta/bloomfilter.git,5c7769f7ed19cc0eb2860cc0e1d4c0159830cd9e,bloomfilter,true,true,false,2022-04-21 22:05:11 -0700
+apache:commons-dbcp,https://github.com/apache/commons-dbcp.git,70d1d3942bf8beacf3777cfc976c0d2d03fa8777,commons-dbcp,true,true,false,2024-05-24 06:58:51 -0400
+indexiatech:antiquity,https://github.com/indexiatech/antiquity.git,4f5cec3256fe78296ea4637bdc89c27a392e07d5,antiquity,true,true,false,2014-08-14 22:36:24 +0300
+making:spring-boot-blank,https://github.com/making/spring-boot-blank.git,f70b3fee54d2f5b457786f680543da1d297979df,spring-boot-blank,true,true,false,2015-10-17 17:51:12 +0900
+teamed:qulice,https://github.com/teamed/qulice.git,0a7d3a5392708a248bb737d9ef4e9fd2f62dae4a,qulice,true,true,true,
+jenkinsci:java-client-api,https://github.com/jenkinsci/java-client-api.git,ddf6a850beacf79480280c0c3c067bf73d84bca5,java-client-api,true,true,true,
+fizzed:stork,https://github.com/fizzed/stork.git,e6b50142333aa099f7414adff788cecdf1fee75e,stork,true,true,true,
+beijunyi:ParallelGit,https://github.com/beijunyi/ParallelGit.git,8c09df9b67e8a309dc7ce640ff22abcbc8c75366,ParallelGit,true,true,true,
+peterchenhdu:tankbattle,https://github.com/peterchenhdu/tankbattle.git,a6b5bc4187af57ebb72c0e2515e49cadf6c39cd4,tankbattle,true,true,false,2021-01-04 16:58:22 +0800
+takezoe:xlsbeans,https://github.com/takezoe/xlsbeans.git,ff1565d59f61212f6c0ad6dbce2634aec4248fe2,xlsbeans,true,true,false,2020-10-16 10:24:54 +0900
+DaanVanYperen:artemis-odb-contrib,https://github.com/DaanVanYperen/artemis-odb-contrib.git,26df3fa19c58bcc6edfecbf400fc57b7f18c85e5,artemis-odb-contrib,true,true,true,
+danielwegener:logback-kafka-appender,https://github.com/danielwegener/logback-kafka-appender.git,e7fc2cda394804693ef991390dc0f544542c35f7,logback-kafka-appender,true,true,false,2022-05-27 08:53:02 +0200
+houbb:opencc4j,https://github.com/houbb/opencc4j.git,59c788db85da8ce085e1deb478c9d4bda44c95a7,opencc4j,true,true,false,2023-06-07 12:37:37 +0800
+USCDataScience:sparkler,https://github.com/USCDataScience/sparkler.git,547b01087ef00ed6c39e527566712a1a85b64499,sparkler,true,false,true,
+dogecoin:libdohj,https://github.com/dogecoin/libdohj.git,3dd6d7548843fe1891366e0325a05587eb21d1aa,libdohj,true,false,true,
+mycila:pubsub,https://github.com/mycila/pubsub.git,799ed85542c7e4830a94efac9279bbd40ba893fa,pubsub,true,true,false,2023-11-06 16:30:53 +0100
+knowm:dropwizard-sundial,https://github.com/knowm/dropwizard-sundial.git,8c78f9c300624e0669603f51e016ff8f32c9126c,dropwizard-sundial,true,true,false,2024-04-18 23:03:45 +0200
+paypal:resteasy-spring-boot,https://github.com/paypal/resteasy-spring-boot.git,47d2f8a9a0d4869dc11f32c4adc3b48ee0d9eb4c,resteasy-spring-boot,true,true,true,
+valid4j:valid4j,https://github.com/valid4j/valid4j.git,2f3dd5e5ed0cc61bfbd08106f081891dd6fc0d3a,valid4j,true,true,false,2016-01-14 20:08:16 +0100
+Fundynamic:dune2themaker4j,https://github.com/Fundynamic/dune2themaker4j.git,6c458fd85dcb0d0a761164db245ff36f0f98130b,dune2themaker4j,true,true,false,2020-11-16 19:54:23 +0100
+constretto:constretto-core,https://github.com/constretto/constretto-core.git,73c9351642ef523c8f64eac999e1e6ef5a87e0d9,constretto-core,true,true,true,
+ihaolin:wechat,https://github.com/ihaolin/wechat.git,57867a063a4fcb54fd3772443a5ab2bc2a09ff9e,wechat,true,true,false,2019-05-01 11:57:26 +0800
+ashish-chopra:Structures,https://github.com/ashish-chopra/Structures.git,ce0a8f131568368bec3110f4ffddcb74d0b9ca0f,Structures,true,true,false,2019-08-02 15:33:54 -0700
+javabeanz:owasp-security-logging,https://github.com/javabeanz/owasp-security-logging.git,ed214c9b91c699e6b6165f28900d47cb92d97362,owasp-security-logging,true,true,true,
+lviggiano:owner,https://github.com/lviggiano/owner.git,91cc6de0160a9a20204d511167be44264c40ca14,owner,true,true,true,
+nutzam:nutzboot,https://github.com/nutzam/nutzboot.git,cdb7c8e14077bb1873acc778672c424ae0bbda2e,nutzboot,true,true,true,
+jcgay:send-notification,https://github.com/jcgay/send-notification.git,6e15f0410cedcd77f247c141eafc4ff804cd21ac,send-notification,true,true,true,
+QianmiOpen:spring-boot-starter-rocketmq,https://github.com/QianmiOpen/spring-boot-starter-rocketmq.git,97ee46668d9f1f7f4fef482f767e8740c8e4fafd,spring-boot-starter-rocketmq,true,true,false,2018-03-02 09:45:15 +0800
+petterobam:sqlite-oop,https://github.com/petterobam/sqlite-oop.git,947ba926a449d3d75b04782e74e38f637e3ad5aa,sqlite-oop,true,true,false,2018-07-29 19:27:42 +0800
+kakawait:cas-security-spring-boot-starter,https://github.com/kakawait/cas-security-spring-boot-starter.git,fb48505a4efc5f33a3e4ba72bd90231d944ebbcf,cas-security-spring-boot-starter,true,true,true,
+charite:jannovar,https://github.com/charite/jannovar.git,44c33d57fcece24d0abb0d8d861ede9383b5c901,jannovar,true,true,true,
+yahoo:yql-plus,https://github.com/yahoo/yql-plus.git,0ba7dcf8df58eae7cb6144599fa5120194eee5e9,yql-plus,true,true,true,
+faljse:SDNotify,https://github.com/faljse/SDNotify.git,fa5f368c06b7ea62e2924b676bf449e2b3ed14c7,SDNotify,true,true,false,2023-08-17 12:51:50 +0200
+GeneralElectric:snowizard,https://github.com/GeneralElectric/snowizard.git,307fdf17892275a56bb666aa1f577ca7cab327c6,snowizard,true,true,true,
+greengerong:prerender-java,https://github.com/greengerong/prerender-java.git,292bd36335126dd9ea3fd8329ce629efddeeb91c,prerender-java,true,true,true,
+Kaysoro:KaellyBot,https://github.com/Kaysoro/KaellyBot.git,79725930131101e2bb655a3da67cb41ff10e4ddf,KaellyBot,true,true,false,2024-05-01 17:10:03 +0200
+odavid:maven-plugins,https://github.com/odavid/maven-plugins.git,8d6d49393d1453be709ecc4cfe87f41f2081f5c5,maven-plugins,true,true,true,
+netplex:json-smart-v2,https://github.com/netplex/json-smart-v2.git,4b1a6b516b10deec9edbaabf8eaccefa14667628,json-smart-v2,true,false,true,
+kawhii:sso,https://github.com/kawhii/sso.git,3f163a3c1a8afcd1045642d195551105330faa97,sso,true,true,true,
+adridadou:eth-contract-api,https://github.com/adridadou/eth-contract-api.git,1c88d275d36fa64f8961edd06ce0f4b03f8b0b3f,eth-contract-api,true,true,false,2019-08-20 09:48:36 +0200
+outbrain:Aletheia,https://github.com/outbrain/Aletheia.git,,Aletheia,false,false,true,
+skuzzle:restrict-imports-enforcer-rule,https://github.com/skuzzle/restrict-imports-enforcer-rule.git,d05853e9917a6c538a06db2134dbc0edc0beba90,restrict-imports-enforcer-rule,true,false,true,
+jcabi:jcabi-aether,https://github.com/jcabi/jcabi-aether.git,ba6f309ca7b39f6c1048167ae90b14a6024f0446,jcabi-aether,true,true,true,
+ppiastucki:recast4j,https://github.com/ppiastucki/recast4j.git,853050feb96e7b8c6f441bdc2037b0f09d911e6e,recast4j,true,false,true,
+ExampleDriven:spring-cloud-eureka-example,https://github.com/ExampleDriven/spring-cloud-eureka-example.git,ca603d3c3b3cbabcc8b099ccd55ef1fad164bddb,spring-cloud-eureka-example,true,true,true,
+tking:JSTUN,https://github.com/tking/JSTUN.git,6516d37c703b74d6dbbbdffdaa2a056ce2f2fdd5,JSTUN,true,true,false,2019-05-15 12:14:25 +0200
+phax:ph-css,https://github.com/phax/ph-css.git,899e7494dbeaccc063687eb97206fef0edb94e95,ph-css,true,true,true,
+AuthorizeNet:sdk-java,https://github.com/AuthorizeNet/sdk-java.git,4d204cef89f6f4fb217a3488869bb0e24454fb93,sdk-java,true,true,true,
+domclick:spring-flow-statemachine,https://github.com/domclick/spring-flow-statemachine.git,2f5975187341c750eb449d08a0f64b27bf01ba43,spring-flow-statemachine,true,true,true,
+microsoft:botbuilder-java,https://github.com/microsoft/botbuilder-java.git,416b2374547636ebdbc77376769cb5923abaf6ee,botbuilder-java,true,true,true,
+radkovo:jStyleParser,https://github.com/radkovo/jStyleParser.git,aed9ffc08dda481222bd9cd66635116768e23a54,jStyleParser,true,true,false,2021-02-03 20:40:47 +0100
+zycgit:hasor,https://github.com/zycgit/hasor.git,6341a97e8e83847847e582598940f76c37d1f438,hasor,true,true,true,
+FasterXML:aalto-xml,https://github.com/FasterXML/aalto-xml.git,0820590fcf56ec3d5ca14608d6145e14e56f2650,aalto-xml,true,true,false,2022-10-16 18:26:14 -0700
+hdiv:hdiv,https://github.com/hdiv/hdiv.git,ba538c4043ff9d0389be1476d0a93e903625da09,hdiv,true,true,true,
+cassiomolin:jersey-jwt-springsecurity,https://github.com/cassiomolin/jersey-jwt-springsecurity.git,54a8fecc82da98d4a62cc0e229fcf2770032419a,jersey-jwt-springsecurity,true,true,false,2017-12-22 09:58:55 +0000
+junkdog:artemis-odb,https://github.com/junkdog/artemis-odb.git,51628b3d316a2db1c1a7218572d03c56f2c98b0c,artemis-odb,true,true,true,
+FasterXML:jackson-datatypes-collections,https://github.com/FasterXML/jackson-datatypes-collections.git,fae9393d663719f6386eb0ef014e13803fbb4fc1,jackson-datatypes-collections,true,true,true,
+yahoo:egads,https://github.com/yahoo/egads.git,40d3db6e27fea649b2aa23c26d0f14991e6adaae,egads,true,true,false,2023-10-04 21:10:44 -0700
+lukas-krecan:json2xml,https://github.com/lukas-krecan/json2xml.git,9119a4a062a3c4544789008c3b4eaf5dc65d5bfc,json2xml,true,true,false,2024-03-20 22:07:33 +0100
+e-biz:spring-dbunit,https://github.com/e-biz/spring-dbunit.git,1ec51222ecdd5dbd6daa4bd6879c6eabe76dfb6b,spring-dbunit,true,true,true,
+Devskiller:friendly-id,https://github.com/Devskiller/friendly-id.git,bc63e0a8f95981482771958a530e44000470d2bc,friendly-id,true,true,true,
+mp911de:microbenchmark-runner,https://github.com/mp911de/microbenchmark-runner.git,23ce019fe50501fc65508d88290c811b53c7b75a,microbenchmark-runner,true,true,true,
+wvengen:proguard-maven-plugin,https://github.com/wvengen/proguard-maven-plugin.git,9ade41337fefa00e489310e31ec795288179ea08,proguard-maven-plugin,true,true,true,
+Cognifide:Slice,https://github.com/Cognifide/Slice.git,e89b85df07fdd89c297a0359073ed1b37efb60de,Slice,true,true,true,
+anthonyu:KeptCollections,https://github.com/anthonyu/KeptCollections.git,d2351634f0af0b5129c034fd2facbdfeb4485a37,KeptCollections,true,true,false,2013-04-11 19:57:23 -0700
+smartcat-labs:berserker,https://github.com/smartcat-labs/berserker.git,a80dab85f9cf8d608895935f097afee5017048e8,berserker,true,true,true,
+panda-lang:light,https://github.com/panda-lang/light.git,0e71e697f608249c43525f6cafa8b9db25b56918,light,true,true,true,
+tennaito:rsql-jpa,https://github.com/tennaito/rsql-jpa.git,7458a9e9f93b185dfff165da6cee3706587f2b10,rsql-jpa,true,true,false,2017-05-01 14:34:17 -0300
+graphhopper:jsprit,https://github.com/graphhopper/jsprit.git,2d4be9ba2f6bb7eb7f8f1418f73fe463463fb286,jsprit,true,true,true,
+astrapi69:jgeohash,https://github.com/astrapi69/jgeohash.git,f0b60c617f4940914cb3c09db67f3be8f5a9d632,jgeohash,true,false,true,
+zhicwu:cassandra-jdbc-driver,https://github.com/zhicwu/cassandra-jdbc-driver.git,0950534efa46aecf8fedd290befb748cce126b15,cassandra-jdbc-driver,true,true,false,2017-03-07 19:48:20 +0800
+bonnyfone:vectalign,https://github.com/bonnyfone/vectalign.git,63806ac71ebd5d9472bf97893b3ec6c5741b5735,vectalign,true,true,false,2021-06-22 11:52:39 +0200
+lpradel:steam-web-api-java,https://github.com/lpradel/steam-web-api-java.git,6450a7314fe887fd700180bcf3e3c1185787c34c,steam-web-api-java,true,true,false,2024-01-31 21:15:34 +0100
+JOML-CI:JOML,https://github.com/JOML-CI/JOML.git,9f67120a6c4f47408b33ae8298ad33c60eee78e7,JOML,true,false,true,
+fizzed:rocker,https://github.com/fizzed/rocker.git,83499963246398a587e4ee65496b45b05475b0fe,rocker,true,true,true,
+iMouseWu:limiter,https://github.com/iMouseWu/limiter.git,6245d6ae08f8a271ce3a36d96bebb195f27ac56f,limiter,true,true,true,
+codelion:gramtest,https://github.com/codelion/gramtest.git,355cf41dcf0904e8d28aeb220241df0137c789ca,gramtest,true,true,false,2023-09-23 21:05:37 +0800
+domaframework:doma-spring-boot,https://github.com/domaframework/doma-spring-boot.git,e0b46cdbc05c8c50ff56666c105ffa9c06546635,doma-spring-boot,true,true,true,
+jenkinsci:ansicolor-plugin,https://github.com/jenkinsci/ansicolor-plugin.git,74393de55727a57a83eb66b0ddd55142700ec415,ansicolor-plugin,true,true,false,2024-05-07 04:59:41 -0400
+Nepxion:Skeleton,https://github.com/Nepxion/Skeleton.git,eb4d2340107c3dff81c222f06322d1acb6a41efc,Skeleton,true,true,true,
+GameUnion:ServerCore,https://github.com/GameUnion/ServerCore.git,97a962fd31d921d5704d935c586dfb241cb55521,ServerCore,true,true,false,2022-02-13 00:03:41 +0900
+damianszczepanik:cucumber-reporting,https://github.com/damianszczepanik/cucumber-reporting.git,1779c194ecf5a65b7137aeae618cec26a0aec4b2,cucumber-reporting,true,true,false,2024-05-03 11:45:14 +0200
+martinpaljak:apdu4j,https://github.com/martinpaljak/apdu4j.git,818ebc562c73e894da097796683e8b2a75c6626d,apdu4j,true,true,true,
+super-csv:super-csv,https://github.com/super-csv/super-csv.git,208d3082cd5cdab39da8873cf741f8b672d1af5b,super-csv,true,true,true,
+wultra:powerauth-crypto,https://github.com/wultra/powerauth-crypto.git,05de759e3ba5945ab18f1d0ba12d8982210bd5ec,powerauth-crypto,true,true,true,
+zhihuili:flower,https://github.com/zhihuili/flower.git,20ffb722ff5daa7f357dada0e6eb174ad4e09db4,flower,true,true,true,
+patrickfav:indoor-positioning,https://github.com/patrickfav/indoor-positioning.git,b9cb84f306848179eeb80fc4352ef0ad7da4a7f4,indoor-positioning,true,true,false,2024-01-12 23:09:56 +0100
+Kotlin:kotlinx-lincheck,https://github.com/Kotlin/kotlinx-lincheck.git,f1c24bd39c21307bb5441ed6253fc7295e08b84b,kotlinx-lincheck,true,false,true,
+jirutka:validator-collection,https://github.com/jirutka/validator-collection.git,df45b077edf39ffb53f0f643b42036f234ae6c0a,validator-collection,true,true,false,2017-03-27 19:50:58 +0200
+easymock:easymock,https://github.com/easymock/easymock.git,93ca6d34094bb1c0fed61b28fd1968524a167acb,easymock,true,true,true,
+vidageek:crawler,https://github.com/vidageek/crawler.git,43d5d16364a7f50a17c16a0b378326b1f2b03eab,crawler,true,true,false,2022-03-31 13:17:30 -0300
+baomidou:mybatis-plus-samples,https://github.com/baomidou/mybatis-plus-samples.git,314300a9abdd58937a5fc3fb8a2bef47e40fd9ff,mybatis-plus-samples,true,true,true,
+vbauer:jconditions,https://github.com/vbauer/jconditions.git,c5816a8439df7cc891a25387cc08ffa22a3cd5c6,jconditions,true,true,false,2018-11-05 15:46:22 +0700
+cardillo:joinery,https://github.com/cardillo/joinery.git,aa7f0742fc872f0a1b1b262ff64bc9d21b917620,joinery,true,true,false,2023-11-21 13:38:18 -0600
+logstash:log4j-jsonevent-layout,https://github.com/logstash/log4j-jsonevent-layout.git,6fe6dcdbda0245d3a2b59f3bfe47f222468f87e4,log4j-jsonevent-layout,true,true,false,2014-09-09 16:21:47 -0400
+OpenNMS:newts,https://github.com/OpenNMS/newts.git,56e51ed5b5b9e3474b9ccd524c7b684745983e25,newts,true,true,true,
+zhoutaoo:SpringCloud,https://github.com/zhoutaoo/SpringCloud.git,66330fa22403bc1db4b16f4c1bdc25116065e1c9,SpringCloud,true,true,true,
+sofastack:sofa-common-tools,https://github.com/sofastack/sofa-common-tools.git,260a8126d7b779e1b1a0f64501caf4292f7351a4,sofa-common-tools,true,true,false,2024-05-23 15:24:02 +0800
+eBay:jsonex,https://github.com/eBay/jsonex.git,dcd510fe5442f18ea0399988563f130fb6c297b2,jsonex,true,true,true,
+arnaudroger:SimpleFlatMapper,https://github.com/arnaudroger/SimpleFlatMapper.git,7dc0c591ec0ab5f4bede168ffc3f66e6eaa88abd,SimpleFlatMapper,true,true,true,
+vert-x3:vertx-codegen,https://github.com/vert-x3/vertx-codegen.git,286a23e67ae3f42345b8a0fd36beacdf7ffc54f9,vertx-codegen,true,true,true,
+harishreedharan:usingflumecode,https://github.com/harishreedharan/usingflumecode.git,dd027214b5ea4cb35260f95562a142c9f28ff166,usingflumecode,true,true,true,
+apache:opennlp,https://github.com/apache/opennlp.git,ffb015a14505b09b8ecc477a9d5d9d39f823b960,opennlp,true,true,true,
+salesforce:dockerfile-image-update,https://github.com/salesforce/dockerfile-image-update.git,f409bf172d3f1bd731b64c0bbde27c5f956183f8,dockerfile-image-update,true,false,true,
+jfaster:mango,https://github.com/jfaster/mango.git,c5bad3c4f337ac6580023d705ccfdeef5fd7f149,mango,true,true,false,2020-08-20 18:46:16 +0800
+MoriTanosuke:glacieruploader,https://github.com/MoriTanosuke/glacieruploader.git,291f5b104be4663a2e0b3674541c7e9479e7a93c,glacieruploader,true,true,true,
+java-diff-utils:java-diff-utils,https://github.com/java-diff-utils/java-diff-utils.git,ba60ae8ca471193fd99ed00247b9533d903008a8,java-diff-utils,true,true,true,
+binarywang:java-testdata-generator,https://github.com/binarywang/java-testdata-generator.git,4e9842dc931e875210fb441d77c47a97191b3697,java-testdata-generator,true,true,false,2023-06-21 14:48:03 +0800
+daniel-cottone:Cerberus,https://github.com/daniel-cottone/Cerberus.git,0db43366d8b2441b4691a8f36d27517e52e50a33,Cerberus,true,true,false,2017-05-07 20:29:14 -0500
+syhily:elasticsearch-jdbc,https://github.com/syhily/elasticsearch-jdbc.git,,elasticsearch-jdbc,false,false,true,
+artsok:rerunner-jupiter,https://github.com/artsok/rerunner-jupiter.git,361c11c12eafc5dcf28f2fb54c296dbdd60f8091,rerunner-jupiter,true,true,false,2022-03-01 10:03:10 +0300
+knowm:XChart,https://github.com/knowm/XChart.git,c118bb60de67b8db6537cb0d38709134359c6ff9,XChart,true,true,true,
+devnied:EMV-NFC-Paycard-Enrollment,https://github.com/devnied/EMV-NFC-Paycard-Enrollment.git,0951a38920aa9970a891e122cad1ef1734e55068,EMV-NFC-Paycard-Enrollment,true,true,true,
+mongobee:mongobee,https://github.com/mongobee/mongobee.git,4e1ec5e381121fc9e5ad54881c84029114bafa52,mongobee,true,true,false,2018-03-23 22:29:22 +0100
+apache:incubator-datasketches-java,https://github.com/apache/incubator-datasketches-java.git,8cea2d885cd8d14e2e9a586eaec48bd3602d23ac,incubator-datasketches-java,true,true,false,2024-05-23 12:06:54 -0700
+spotify:java-hamcrest,https://github.com/spotify/java-hamcrest.git,fba1803df0e2ef381ddfc841b2f6f37adaaed13b,java-hamcrest,true,true,true,
+apache:commons-validator,https://github.com/apache/commons-validator.git,b8bec0f9d6f722be363f2cdb1618d3f4057c4473,commons-validator,true,true,false,2024-05-25 20:19:10 +0000
+red6:pdfcompare,https://github.com/red6/pdfcompare.git,7a882b62602276b97b439df72c8b70ab1ee71cf8,pdfcompare,true,true,false,2024-03-13 16:20:44 +0100
+lightoze:gwt-i18n-server,https://github.com/lightoze/gwt-i18n-server.git,96de53288e9bf31721d7b0e2a1d9f7b6ce1a7e83,gwt-i18n-server,true,true,false,2019-02-18 23:03:16 +0200
+sachin-handiekar:jMusixMatch,https://github.com/sachin-handiekar/jMusixMatch.git,9c8683351c3d9e52c5dd75f21b2b0c8b43fd4541,jMusixMatch,true,true,false,2021-04-04 22:23:26 +0100
+miwurster:spring-data-influxdb,https://github.com/miwurster/spring-data-influxdb.git,a29fc9e9ccbe28c7f8070aab160fa169d058af68,spring-data-influxdb,true,true,false,2019-07-30 11:19:25 +0200
+YahooArchive:gondola,https://github.com/YahooArchive/gondola.git,b27a3af712072d57e64090931075fa85de01bffe,gondola,true,true,true,
+yzsunlei:xmall,https://github.com/yzsunlei/xmall.git,88080b7aeed2f87f79cb70c0f185f66739de0482,xmall,true,true,true,
+atomix:catalyst,https://github.com/atomix/catalyst.git,140e762cb975cd8ee1fd85119043c5b8bf917c5c,catalyst,true,true,true,
+OKaluzny:springboot-rest-api-angularjs-https,https://github.com/OKaluzny/springboot-rest-api-angularjs-https.git,d057f4bad81a8a888a7f057dc77e53c0dec111e0,springboot-rest-api-angularjs-https,true,true,false,2017-09-23 19:39:35 +0300
+code4craft:webmagic,https://github.com/code4craft/webmagic.git,7d2d2244b3f5c830f1e9258f28ab669e3596eaa2,webmagic,true,true,true,
+decorators-squad:eo-yaml,https://github.com/decorators-squad/eo-yaml.git,0a81c24c85943a12e661215bbd76ba2d3d5ce944,eo-yaml,true,true,false,2024-05-27 10:35:42 +0300
+zalando-stups:swagger-codegen-tooling,https://github.com/zalando-stups/swagger-codegen-tooling.git,7249d00dff0b94b2ffa724b3d6b2aa5fc7233103,swagger-codegen-tooling,true,true,true,
+actframework:actframework,https://github.com/actframework/actframework.git,b3a0b97f4354054bbe6d71d29eaadb5cf483dc3b,actframework,true,true,true,
+whizzosoftware:WZWave,https://github.com/whizzosoftware/WZWave.git,b5a337842605bb88f4cb4c31211c4793dc4811e5,WZWave,true,true,false,2019-05-13 14:23:41 +0200
+gncloud:fastcatsearch,https://github.com/gncloud/fastcatsearch.git,,fastcatsearch,false,false,true,
+hermannpencole:nifi-config,https://github.com/hermannpencole/nifi-config.git,e4a8a251bd01fd4026ac4fe6868791f4496ce882,nifi-config,true,true,false,2022-11-23 09:05:35 +0100
+sculptor:sculptor,https://github.com/sculptor/sculptor.git,f57ce67563f1ffa0a6a52d1ea81ad14dbe31b8e7,sculptor,true,true,true,
+NanoHttpd:nanohttpd,https://github.com/NanoHttpd/nanohttpd.git,efb2ebf85a2b06f7c508aba9eaad5377e3a01e81,nanohttpd,true,true,true,
+jonashackt:spring-boot-rest-clientcertificate,https://github.com/jonashackt/spring-boot-rest-clientcertificate.git,8b3a6c8e1c93a42fb9dc3244b573213208f1e3c8,spring-boot-rest-clientcertificate,true,true,false,2023-11-23 10:56:42 +0000
+jpmml:jpmml-model,https://github.com/jpmml/jpmml-model.git,5f62bc26df09572f53cfae636411f749f28c48d5,jpmml-model,true,true,true,
+mdeinum:spring-utils,https://github.com/mdeinum/spring-utils.git,2efa1188370969156264c10226673eb5d792969c,spring-utils,true,true,false,2017-01-11 09:06:45 +0100
+rnorth:visible-assertions,https://github.com/rnorth/visible-assertions.git,ba7400caddf11538d96aad443fb74bbf1fc04c70,visible-assertions,true,true,false,2021-06-17 13:59:09 +0100
+trekawek:toxiproxy-java,https://github.com/trekawek/toxiproxy-java.git,5cf48d9383b3045789f8d2c9c2e20b0c2d694643,toxiproxy-java,true,true,false,2024-03-02 15:46:38 +0100
+drtrang:Copiers,https://github.com/drtrang/Copiers.git,775b2bc702d2df74c4ef3d3c9d7563aedc8e660b,Copiers,true,true,false,2018-07-31 17:49:44 +0800
+francisdb:serviceloader-maven-plugin,https://github.com/francisdb/serviceloader-maven-plugin.git,09ad34bd0fd9ef836e8e0ae41e1b2a4655d6ce21,serviceloader-maven-plugin,true,true,true,
+zeebe-io:spring-zeebe,https://github.com/zeebe-io/spring-zeebe.git,8f9f1e384354b081ecaeb32751ada4657a05bc5d,spring-zeebe,true,true,true,
+Antibrumm:jackson-antpathfilter,https://github.com/Antibrumm/jackson-antpathfilter.git,40f3af16e9a32fec910fadfde144c4b58217d5e7,jackson-antpathfilter,true,true,false,2021-06-27 08:57:38 +0200
+KengoTODA:what-is-maven,https://github.com/KengoTODA/what-is-maven.git,62d87c565341c96a1b9afe62f9056809907b4460,what-is-maven,true,true,true,
+dka23:gitlab-github-proxy,https://github.com/dka23/gitlab-github-proxy.git,31b384edae5a6fcf1226c6a218c8ab6a8cd37975,gitlab-github-proxy,true,true,false,2018-10-03 11:31:45 +0200
+usdot-jpo-ode:jpo-ode,https://github.com/usdot-jpo-ode/jpo-ode.git,7b9f559550879557455552361e92d1316e811be4,jpo-ode,true,true,true,
+miltonio:milton2,https://github.com/miltonio/milton2.git,c27774c0eaaa188abc7d30feb1f3b15092e24698,milton2,true,true,true,
+Sayi:swagger-dubbo,https://github.com/Sayi/swagger-dubbo.git,428851031419ed2c6090c1974fc0f9e977b24a5b,swagger-dubbo,true,true,true,
+phax:ph-ubl,https://github.com/phax/ph-ubl.git,35450cd20b5d22bf54a474b01a93d2d5b666e33a,ph-ubl,true,true,true,
+susom:database,https://github.com/susom/database.git,de0d0391cf61f27c641caf8a2e4c623c070ff21f,database,true,true,true,
+TFdream:cherry,https://github.com/TFdream/cherry.git,030f22fc889450f595e3fbcc5c4d6155010b33d4,cherry,true,true,true,
+soleaf:ErRabbit,https://github.com/soleaf/ErRabbit.git,07784a9d436e45911be9b5e2c71fc7d2796a6916,ErRabbit,true,true,false,2017-06-27 14:26:49 +0900
+Sayi:swagger-diff,https://github.com/Sayi/swagger-diff.git,e6abc1483ec90859aeba9d9ad4e7fd0368352d47,swagger-diff,true,true,false,2020-06-30 02:13:05 +0800
+thelinmichael:spotify-web-api-java,https://github.com/thelinmichael/spotify-web-api-java.git,a920b5d387b14d7fdaa4441c184fc8f9ef3b7ad8,spotify-web-api-java,true,true,false,2024-05-27 19:50:43 +0000
+hoijui:JavaOSC,https://github.com/hoijui/JavaOSC.git,755995b1d46c7fdf96e002a1689596acdf826907,JavaOSC,true,true,true,
+patriques82:alphavantage4j,https://github.com/patriques82/alphavantage4j.git,bcc8fced9e8ca53af600434bca6ae6dac0819658,alphavantage4j,true,true,false,2019-01-06 18:11:34 +0100
+sematext:solr-redis,https://github.com/sematext/solr-redis.git,5775a9d2a8501cc6c59bf0ab32d866aac1d2a3d8,solr-redis,true,true,false,2022-05-20 17:20:12 -0400
+astefanutti:metrics-cdi,https://github.com/astefanutti/metrics-cdi.git,d14cc3a3e54d2be77cdffd0f1cec40db1e7e52e7,metrics-cdi,true,true,true,
+davidmoten:rtree,https://github.com/davidmoten/rtree.git,56fd2f82019cc897234da1e9a12496cd258d2086,rtree,true,true,false,2024-05-22 11:24:55 +0000
+spdx:tools,https://github.com/spdx/tools.git,bc35e25dacb728bf8332b82b509bb3efacd6c64e,tools,true,true,false,2022-12-10 21:03:45 -0800
+yidasanqian:dynamic-add-date,https://github.com/yidasanqian/dynamic-add-date.git,e27e77b05210638ea14ce4882c43fc2dfd87cdfa,dynamic-add-date,true,true,false,2021-04-26 10:52:23 +0800
+OneBusAway:onebusaway-alexa,https://github.com/OneBusAway/onebusaway-alexa.git,e1bcdfeecf92e9959ee602bfc0b03b264c352373,onebusaway-alexa,true,true,false,2020-10-13 10:28:17 -0400
+neoremind:fluent-validator,https://github.com/neoremind/fluent-validator.git,9422352dc4df99565aab41b96c05e7a284c9f578,fluent-validator,true,true,true,
+alexec:docker-maven-plugin,https://github.com/alexec/docker-maven-plugin.git,ea15f9e6c273989bb91f4228fb52cb73d00e07b3,docker-maven-plugin,true,true,true,
+deric:gitlab-ci-mesos,https://github.com/deric/gitlab-ci-mesos.git,,gitlab-ci-mesos,false,false,true,
+j-easy:easy-props,https://github.com/j-easy/easy-props.git,d61854d94b89928d3c9ed9dc7b1fce022c0c51dc,easy-props,true,true,false,2020-11-15 23:10:36 +0100
+stoicflame:ofx4j,https://github.com/stoicflame/ofx4j.git,d65060ea26c5651f6a7d60609e17ed7e8e8508f0,ofx4j,true,true,false,2024-04-15 16:50:46 -0600
+kdkanishka:Virustotal-Public-API-V2.0-Client,https://github.com/kdkanishka/Virustotal-Public-API-V2.0-Client.git,cff6279f718c0dfea1cb1c8011a2049a7347ec03,Virustotal-Public-API-V2.0-Client,true,true,true,
+trekawek:coffee-gb,https://github.com/trekawek/coffee-gb.git,a35849d783545b113dc454929fe27687537f3b2f,coffee-gb,true,true,false,2024-03-05 19:19:15 +0100
+ef-labs:stash-hook-mirror,https://github.com/ef-labs/stash-hook-mirror.git,a87bb6b725c760675f60bb0af407ffa9d30ddd3a,stash-hook-mirror,true,true,false,2020-08-20 09:50:32 +0200
+gini:dropwizard-gelf,https://github.com/gini/dropwizard-gelf.git,1a525b06ba032d65ecf8421e2141081455f33058,dropwizard-gelf,true,true,false,2022-10-10 08:46:14 +0200
+WorksApplications:elasticsearch-sudachi,https://github.com/WorksApplications/elasticsearch-sudachi.git,28d6e94e77c654d70ce74600046f02a39095d612,elasticsearch-sudachi,true,false,true,
+magja:magja,https://github.com/magja/magja.git,6923f753daccac81761f777a1a3b64ad1c717edc,magja,true,true,true,
+mkobos:pca_transform,https://github.com/mkobos/pca_transform.git,0f73f443465eeae2d2131fc0da82a7cf7dc92bc2,pca_transform,true,true,false,2015-06-23 02:11:24 +0200
+ripreal:V8LogScanner,https://github.com/ripreal/V8LogScanner.git,3789156a0ab07c4b2cdd91e8165ca733ecc01905,V8LogScanner,true,true,false,2023-06-09 17:42:23 +0300
+vbauer:herald,https://github.com/vbauer/herald.git,608c39a6223184ff083ab3f5a737df51da8751b7,herald,true,true,false,2022-12-22 04:39:07 +0700
+salyh:javamail-mock2,https://github.com/salyh/javamail-mock2.git,73266c1d4d3606baac542933e7512633a39de1c4,javamail-mock2,true,true,false,2014-06-20 21:18:07 +0200
+xuminwlt:j360-dubbo-app-all,https://github.com/xuminwlt/j360-dubbo-app-all.git,fc32b0b074177a30d558ae8f0714ae4c05a7e47f,j360-dubbo-app-all,true,true,true,
+j-easy:easy-random,https://github.com/j-easy/easy-random.git,51150d4621c4ec6d534d99e6a71eeaeb2e11caaf,easy-random,true,true,false,2023-09-09 22:48:13 +0200
+wmz7year:Thrift-Connection-Pool,https://github.com/wmz7year/Thrift-Connection-Pool.git,664df53dab12f87a53442e63dcaef1a7af5a484b,Thrift-Connection-Pool,true,true,false,2016-05-09 17:49:33 +0800
+lanyonm:playground,https://github.com/lanyonm/playground.git,c0c50b69bfb08cae2d267bd95774be66df2ddb1b,playground,true,true,false,2016-01-04 09:22:09 -0600
+magro:kryo-serializers,https://github.com/magro/kryo-serializers.git,cc89b036d90403a9c6c98dd13800811a33a48962,kryo-serializers,true,true,false,2019-05-16 15:11:51 +0200
+poetix:octarine,https://github.com/poetix/octarine.git,1161036869336b85d24c00a556840ef6e286f3a7,octarine,true,true,true,
+awaitility:awaitility,https://github.com/awaitility/awaitility.git,fbe16add874b4260dd240108304d5c0be84eabc8,awaitility,true,true,true,
+maihaoche:rocketmq-spring-boot-starter,https://github.com/maihaoche/rocketmq-spring-boot-starter.git,3992d46bd24c859cd1bd903689f9f1e5cb73f1f4,rocketmq-spring-boot-starter,true,true,false,2020-06-05 15:00:49 +0800
+mast-group:sequence-mining,https://github.com/mast-group/sequence-mining.git,fd1ab464f902d596bad5663900c03166328ed91d,sequence-mining,true,true,true,
+square:rack-servlet,https://github.com/square/rack-servlet.git,9d480e4953f8297436a73928c41e592bddc1556b,rack-servlet,true,true,true,
+robert-bor:CSVeed,https://github.com/robert-bor/CSVeed.git,d65446ae0fc89b3b137b2a0aa32165812ee3e528,CSVeed,true,true,false,2024-04-21 15:16:23 -0400
+leonchen83:redis-rdb-cli,https://github.com/leonchen83/redis-rdb-cli.git,eb98bb08b9216e7e48582ff82744696ff4938c5a,redis-rdb-cli,true,true,false,2024-02-21 17:57:29 +0800
+web3j:web3j-maven-plugin,https://github.com/web3j/web3j-maven-plugin.git,0a65edf50f5ca5d1475e01b437e0104914522747,web3j-maven-plugin,true,true,true,
+gabrie-allaigre:sonar-gitlab-plugin,https://github.com/gabrie-allaigre/sonar-gitlab-plugin.git,1a6b20737c0e034fed35f555442fa493c6268e9f,sonar-gitlab-plugin,true,true,false,2019-05-15 10:21:09 +0200
+GrammarViz2:grammarviz2_src,https://github.com/GrammarViz2/grammarviz2_src.git,e6f5fecd4e16f6abf3b5bf45f994efe5995121a5,grammarviz2_src,true,true,false,2022-01-10 21:10:41 +0100
+j-easy:easy-batch,https://github.com/j-easy/easy-batch.git,647ce811fc1ada476ceef4f48a2f8523367a4892,easy-batch,true,true,true,
+mojohaus:exec-maven-plugin,https://github.com/mojohaus/exec-maven-plugin.git,dced4f552949ea560cf8f69135e37f554dd4345b,exec-maven-plugin,true,true,true,
+mojohaus:extra-enforcer-rules,https://github.com/mojohaus/extra-enforcer-rules.git,fba70bd064b343cbc9b86414c983a69f2344ccbb,extra-enforcer-rules,true,true,true,
+symphonyoss:symphony-java-client,https://github.com/symphonyoss/symphony-java-client.git,a03a4b9ccdfe6e571db47fd293125e69e8de15fb,symphony-java-client,true,true,true,
+EsotericSoftware:reflectasm,https://github.com/EsotericSoftware/reflectasm.git,cad4d755114e80169727fd030c85d55db3997bd8,reflectasm,true,true,false,2022-11-10 14:40:46 -0400
+apache:incubator-tamaya,https://github.com/apache/incubator-tamaya.git,fae0bf37f74825eebb01327bc9846790e878fa19,incubator-tamaya,true,true,true,
+wihoho:FaceRecognition,https://github.com/wihoho/FaceRecognition.git,df9471c04d6ee1aa990fb97dd7352be8ab59e6d4,FaceRecognition,true,true,false,2018-11-03 12:08:25 -0700
+yammer:dropwizard-auth-ldap,https://github.com/yammer/dropwizard-auth-ldap.git,5e46b808875acc8a0b9d1f5fe18872d877ecd836,dropwizard-auth-ldap,true,true,false,2017-07-31 11:43:04 -0700
+raphw:guava-cache-overflow-extension,https://github.com/raphw/guava-cache-overflow-extension.git,befa47bb955ffa9f344b44e8621290d65e6592d2,guava-cache-overflow-extension,true,true,false,2013-11-09 12:34:23 +0100
+Adobe-Consulting-Services:acs-aem-commons,https://github.com/Adobe-Consulting-Services/acs-aem-commons.git,95360830574882c1bdebf1a24ced64f7bdade33c,acs-aem-commons,true,true,true,
+httpcache4j:httpcache4j,https://github.com/httpcache4j/httpcache4j.git,9c07ebd63cd104a99eb9e771f760f14efa4fe0f6,httpcache4j,true,true,true,
+minwan1:spring-security-oauth2-example,https://github.com/minwan1/spring-security-oauth2-example.git,205461b056cd8cd17e179ab8260fdeaaa4cfdcf2,spring-security-oauth2-example,true,true,false,2018-08-07 01:06:02 +0900
+klieber:phantomjs-maven-plugin,https://github.com/klieber/phantomjs-maven-plugin.git,7ec6526a23289bf883048b54985c2c08942ad0a3,phantomjs-maven-plugin,true,true,true,
+zapodot:embedded-db-junit,https://github.com/zapodot/embedded-db-junit.git,f6d49e5c142088b095f1e6b1217631d48b533e23,embedded-db-junit,true,true,true,
+excelsior-oss:restler,https://github.com/excelsior-oss/restler.git,58efcff137868778718fba1113baff59f1c44139,restler,true,true,true,
+tcurdt:jdeb,https://github.com/tcurdt/jdeb.git,3084a8e543982e1326b2b25d11c84a36134dac10,jdeb,true,true,true,
+FlexTradeUKLtd:jfixture,https://github.com/FlexTradeUKLtd/jfixture.git,70c10d846b81bb115ffd2f8875d0634dc0454990,jfixture,true,true,true,
+velo:feign-mock,https://github.com/velo/feign-mock.git,b91e135011c09f52b37f78e3028533c04ff9c3ad,feign-mock,true,true,false,2018-06-29 09:30:17 +1200
+3wks:thundr,https://github.com/3wks/thundr.git,,thundr,false,false,true,
+vert-x3:vertx-kafka-client,https://github.com/vert-x3/vertx-kafka-client.git,94924e9392c2b841aa20957364d026c3ffe8bce3,vertx-kafka-client,true,true,false,2024-05-21 11:12:47 +0200
+jhalterman:sarge,https://github.com/jhalterman/sarge.git,9fc14a62298d0b1abf109a1d3d5d75a3134ccb68,sarge,true,true,false,2023-04-11 18:45:44 -0700
+extjwnl:extjwnl,https://github.com/extjwnl/extjwnl.git,6b748537f9d8c3eb2be8af48c06522460fcfd4fd,extjwnl,true,true,true,
+sterodium:selenium-grid-extensions,https://github.com/sterodium/selenium-grid-extensions.git,fef28586730b543b5086b0215b7a21463d84c084,selenium-grid-extensions,true,true,true,
+burtcorp:jmespath-java,https://github.com/burtcorp/jmespath-java.git,3bf9376ec57dd8669814cd512642f32144e3ae0a,jmespath-java,true,true,true,
+unic:neba,https://github.com/unic/neba.git,980331d616ba38a24bdb51e7cb6050b1d5903fed,neba,true,true,true,
+jenkinsci:github-plugin,https://github.com/jenkinsci/github-plugin.git,69254ce7765c03b3cad186396996265668a3795c,github-plugin,true,true,false,2024-05-16 20:18:20 +0300
+drallieiv:KinanCity,https://github.com/drallieiv/KinanCity.git,d5ff6268b2e1530f62be52351fa30f3d3d205b03,KinanCity,true,true,true,
+FasterXML:jackson-modules-base,https://github.com/FasterXML/jackson-modules-base.git,b803d4be1f583972a7972fd9f1c4562f8692449f,jackson-modules-base,true,true,true,
+netceteragroup:valdr-bean-validation,https://github.com/netceteragroup/valdr-bean-validation.git,96a1f325e84654f7b64a73501eb9ac700a06549a,valdr-bean-validation,true,true,true,
+mybatis:freemarker-scripting,https://github.com/mybatis/freemarker-scripting.git,397f99117bafc403cc9ab414ec595a3bcf02ac11,freemarker-scripting,true,true,false,2024-05-26 17:22:51 -0400
+jeevatkm:excelReader,https://github.com/jeevatkm/excelReader.git,87f451474e3e8863688d19269bcd2bcc56873e87,excelReader,true,true,false,2018-06-04 12:44:01 -0700
+forgemo:bittrex-java-client,https://github.com/forgemo/bittrex-java-client.git,e588a3111fb8f3468a9cf5b004fdf9ddaf1b6fd6,bittrex-java-client,true,true,false,2023-08-20 23:22:58 +0200
+protegeproject:swrlapi,https://github.com/protegeproject/swrlapi.git,5b89d824541899255bc858aeca4a9c4f4b585882,swrlapi,true,true,false,2023-09-12 16:47:58 -0700
+gitbucket:markedj,https://github.com/gitbucket/markedj.git,4a3a95a1fb46c5d07861c553057742a0ddc08156,markedj,true,true,false,2024-05-27 17:34:07 +0900
+binarywang:qrcode-utils,https://github.com/binarywang/qrcode-utils.git,004299a2870a9ec69f68fd39d1afe7849b9544d3,qrcode-utils,true,true,false,2023-06-21 14:47:08 +0800
+garethjevans:swagger-codegen-maven-plugin,https://github.com/garethjevans/swagger-codegen-maven-plugin.git,87cdeae56e95b67cc44d1e9658be8d1a35fd4807,swagger-codegen-maven-plugin,true,true,false,2015-05-31 21:27:00 +0100
+spotify:netty-zmtp,https://github.com/spotify/netty-zmtp.git,2daf31fbeefb0d8c5187e483e503b6675431706d,netty-zmtp,true,true,false,2022-03-31 13:18:30 +0200
+ganshane:shakey,https://github.com/ganshane/shakey.git,f6938bdef210cc44d661fb0f200e37f279e7ba23,shakey,true,true,true,
+dianbaer:grain,https://github.com/dianbaer/grain.git,6dabee1f6ac4a9c845416057babdc0d059363f7f,grain,true,true,true,
+fergarrui:custom-bytecode-analyzer,https://github.com/fergarrui/custom-bytecode-analyzer.git,e907055ced6e6e2dfbd040166155f57245b31a76,custom-bytecode-analyzer,true,true,false,2018-03-27 09:21:38 +0100
+jcabi:jcabi-github,https://github.com/jcabi/jcabi-github.git,de7639547c9f9dbbf51d4b89cbd53560f72693f1,jcabi-github,true,true,true,
+jpmml:jpmml-evaluator,https://github.com/jpmml/jpmml-evaluator.git,2d2b8de77463b4bd24850dffd3cb61643c078909,jpmml-evaluator,true,true,true,
+pholser:junit-quickcheck,https://github.com/pholser/junit-quickcheck.git,1b3cf7014b63f017b9d273debfc3d7cba09da4f4,junit-quickcheck,true,true,true,
+vladimir-bukhtoyarov:rolling-metrics,https://github.com/vladimir-bukhtoyarov/rolling-metrics.git,7d9b6de2d7ae3e5610dfc4bd00679b31da0a6f6c,rolling-metrics,true,true,false,2022-03-20 21:24:29 +0300
+javaparser:javaparser,https://github.com/javaparser/javaparser.git,678aaa1f5ace84e95a9a29f9bc62b4ea54199cd4,javaparser,true,true,true,
+fmtn:a,https://github.com/fmtn/a.git,5dea9eb6e7ced8bc272f28cbd4f4d7d9408bbe9f,a,true,true,false,2023-09-03 10:45:02 +0200
+ops4j:org.ops4j.pax.wicket,https://github.com/ops4j/org.ops4j.pax.wicket.git,ef7cb4bdf918e9e61ec69789b9c690567616faa9,org.ops4j.pax.wicket,true,true,true,
+sofastack:sofa-jarslink,https://github.com/sofastack/sofa-jarslink.git,ecd07ed114b8ff4c25bc03afc7c5e6b4d66023b3,sofa-jarslink,true,true,true,
+timschlechter:swagger-for-elasticsearch,https://github.com/timschlechter/swagger-for-elasticsearch.git,e8a3ccb954eea34d05c4051755404b8274968f08,swagger-for-elasticsearch,true,true,false,2018-01-07 13:42:42 +0100
+smartcat-labs:cassandra-migration-tool-java,https://github.com/smartcat-labs/cassandra-migration-tool-java.git,790a0580770fba707d31e0c767d380707c6da3fc,cassandra-migration-tool-java,true,true,false,2016-12-20 10:23:55 +0100
+google:closure-compiler,https://github.com/google/closure-compiler.git,75b19bee914da27d601ced83296c00f83352d7c5,closure-compiler,true,false,true,
+dropwizard:dropwizard-java8,https://github.com/dropwizard/dropwizard-java8.git,d3fec0bc677d23ce4af270a3e726d13870a3e962,dropwizard-java8,true,true,true,
+RUB-NDS:BurpSSOExtension,https://github.com/RUB-NDS/BurpSSOExtension.git,b3eab65fc574f96a55cf5bb770678faf5e2c2f44,BurpSSOExtension,true,true,false,2019-06-24 11:16:05 +0200
+Comcast:jrugged,https://github.com/Comcast/jrugged.git,1c549de6f2363d7c296037874cff944de38fb66f,jrugged,true,true,true,
+stratosphere:stratosphere,https://github.com/stratosphere/stratosphere.git,c543a08f9676c5b2b0a7088123bd6e795a8ae0c8,stratosphere,true,true,true,
+Workday:timeseries-forecast,https://github.com/Workday/timeseries-forecast.git,9a22eaa0a26b6b4d9c5f8b8967af4a6b9ddf1bc6,timeseries-forecast,true,true,false,2019-05-19 17:01:01 -0700
+twitter-archive:libcrunch,https://github.com/twitter-archive/libcrunch.git,90ec26e4f31cb64df7838d8f14aefaabc5184b5c,libcrunch,true,true,false,2017-03-16 16:30:28 -0700
+afrunt:jach,https://github.com/afrunt/jach.git,4d49f2ccc3db6430b38c96e43e41cdb55026fd54,jach,true,true,false,2021-02-08 15:36:31 +0200
+victims:maven-security-versions,https://github.com/victims/maven-security-versions.git,190c955113d1d78bd8fd240e64371bc69d7291b9,maven-security-versions,true,true,true,
+gephi:gephi,https://github.com/gephi/gephi.git,,gephi,false,false,true,
+hoverruan:weiboclient4j,https://github.com/hoverruan/weiboclient4j.git,80556b1ce40ee4dc063b977f885792efb6307547,weiboclient4j,true,true,false,2018-01-31 13:26:24 +0800
+SonarSource:sslr,https://github.com/SonarSource/sslr.git,0a26bf74597aacaa3600a1f434f084b64e138d52,sslr,true,true,true,
+yammer:breakerbox,https://github.com/yammer/breakerbox.git,ac6960bf28509fb04198409bdae9b97c0e29e260,breakerbox,true,true,true,
+bdupras:guava-probably,https://github.com/bdupras/guava-probably.git,63e95719536318051bf940eed25130c0cfccc256,guava-probably,true,true,false,2020-10-21 19:41:50 -0600
+beanshell:beanshell,https://github.com/beanshell/beanshell.git,3c576079f9395bd9c53af75c0224b6831c84aa70,beanshell,true,true,true,
+Backelite:sonar-swift,https://github.com/Backelite/sonar-swift.git,a5e219515cd39701aa5c8d93f954a64acff3aa82,sonar-swift,true,true,true,
+raphw:byte-buddy,https://github.com/raphw/byte-buddy.git,f277f6ff5eb96f7f647164ae607acd645777d580,byte-buddy,true,true,true,
+paukiatwee:budgetapp,https://github.com/paukiatwee/budgetapp.git,98fffc152e8d6987d8a97e1dae208f23f759e4e4,budgetapp,true,true,false,2020-04-15 13:42:39 +0800
+xdrop:fuzzywuzzy,https://github.com/xdrop/fuzzywuzzy.git,e8376dfdc1c0cb72f7924f3a347bfcd39855dbeb,fuzzywuzzy,true,true,true,
+davidmoten:rxjava-extras,https://github.com/davidmoten/rxjava-extras.git,0bf2ab9eab60c1a2693c4ecacfb71cb148d16db0,rxjava-extras,true,true,false,2024-05-22 16:17:01 +0000
+featurecat:lizzie,https://github.com/featurecat/lizzie.git,ebeb4469ebf7b28d6b4ca34006cb3f7059fdc9c3,lizzie,true,true,false,2020-09-30 18:10:13 -0500
+ghillert:spring-batch-integration-sample,https://github.com/ghillert/spring-batch-integration-sample.git,5ab460e9b41e21ff0cde7e84ee70c5e06cc14095,spring-batch-integration-sample,true,true,true,
+jmrozanec:cron-utils,https://github.com/jmrozanec/cron-utils.git,d31697ec4c30d4f43a1b528e5781d1d00ea1c967,cron-utils,true,true,false,2023-03-26 18:32:07 +0200
+blueshen:ik-analyzer,https://github.com/blueshen/ik-analyzer.git,67ccb98201295212d5f76ec0e8fb923e47b97f30,ik-analyzer,true,true,false,2023-12-18 15:56:16 +0800
+realrolfje:anonimatron,https://github.com/realrolfje/anonimatron.git,caab43036647d6058aba9f1f5cce5ec3b8982e92,anonimatron,true,true,false,2023-11-05 20:33:47 +0100
+coveooss:saml-client,https://github.com/coveooss/saml-client.git,7039d8df616362c3a9ade16deb36672ddd8c7661,saml-client,true,true,false,2024-03-29 10:24:08 -0400
+spotify:missinglink,https://github.com/spotify/missinglink.git,bdfb0decbe623a69f30b15e7eccf2b102f0cf15b,missinglink,true,true,true,
+KittehOrg:KittehIRCClientLib,https://github.com/KittehOrg/KittehIRCClientLib.git,fe05a8028dd2738c4b4dbfdc62fb4d6358aaa8f5,KittehIRCClientLib,true,true,false,2023-12-28 21:52:51 -0500
+Archistar:archistar-smc,https://github.com/Archistar/archistar-smc.git,b39dbd005193d8b77d21b75e655809a60f31057d,archistar-smc,true,true,false,2018-03-21 15:08:24 +0100
+aaronshan:presto-third-functions,https://github.com/aaronshan/presto-third-functions.git,8bccc8f534a68107b3027b463b9957581e314ff6,presto-third-functions,true,true,false,2017-12-13 17:18:23 +0800
+jeremiehuchet:nominatim-java-api,https://github.com/jeremiehuchet/nominatim-java-api.git,f8be7a160ba82da7aca9203614d10a85716fb13a,nominatim-java-api,true,true,false,2021-06-04 12:21:08 +0200
+JakubDziworski:Enkel-JVM-language,https://github.com/JakubDziworski/Enkel-JVM-language.git,8a3290c86992250bdaacca28cec5bb638ee32189,Enkel-JVM-language,true,true,true,
+etsy:arbiter,https://github.com/etsy/arbiter.git,166f99f5818274cb688cf85c7687e8ae6be4e803,arbiter,true,true,false,2019-03-04 09:44:26 -0600
+mojohaus:rpm-maven-plugin,https://github.com/mojohaus/rpm-maven-plugin.git,f140d64f3bb462f61137821ffc1da9f55862fbc0,rpm-maven-plugin,true,true,true,
+terasolunaorg:terasoluna-gfw,https://github.com/terasolunaorg/terasoluna-gfw.git,aba25b1fb261dc87ec3bf6a61f369c070efd4d2f,terasoluna-gfw,true,true,true,
+microservices-demo:orders,https://github.com/microservices-demo/orders.git,546a10c92d1ff9998c21f3849f5b95a0f14430a0,orders,true,true,false,2023-12-05 14:10:11 +0000
+jsimone:webapp-runner,https://github.com/jsimone/webapp-runner.git,4bb658ada603dacc18bbe5710bdc62f663ad88d8,webapp-runner,true,false,true,
+m4rciosouza:ponto-inteligente-api,https://github.com/m4rciosouza/ponto-inteligente-api.git,bc611b361019ac92a8f5398555e23594ba3bcc94,ponto-inteligente-api,true,true,false,2019-06-15 11:35:46 +0100
+danielflower:maven-gitlog-plugin,https://github.com/danielflower/maven-gitlog-plugin.git,674d9617f82d16c06f738d1f6904cae0d9a15ce2,maven-gitlog-plugin,true,true,false,2022-10-23 20:52:52 +0800
+wxisme:bloomfilter,https://github.com/wxisme/bloomfilter.git,5c7769f7ed19cc0eb2860cc0e1d4c0159830cd9e,bloomfilter,true,true,false,2022-04-21 22:05:11 -0700
+dzikoysk:pandomium,https://github.com/dzikoysk/pandomium.git,d92588537db9e75aeed6f2564a25755a002debba,pandomium,true,true,true,
+google:acai,https://github.com/google/acai.git,d129cbf669c56f3d98637e662f67c555ea2a5eda,acai,true,true,false,2021-02-12 18:48:47 +0000
+mailjet:mailjet-apiv3-java,https://github.com/mailjet/mailjet-apiv3-java.git,50a72a2b53c7b277fe41f3acaae8ff778d87553e,mailjet-apiv3-java,true,true,false,2023-12-13 11:47:52 +0200
+VisualDataWeb:OWL2VOWL,https://github.com/VisualDataWeb/OWL2VOWL.git,35312f89c8866c6f90955585755312f897187376,OWL2VOWL,true,true,false,2022-01-06 07:31:14 +0100
+bfwg:springboot-jwt-starter,https://github.com/bfwg/springboot-jwt-starter.git,80c0d0326b63d8a5ecbcd618f099cef15749a398,springboot-jwt-starter,true,true,false,2023-08-01 09:50:59 -0700
+mast-group:api-mining,https://github.com/mast-group/api-mining.git,f8829c3b699356bfdfc3648e11ffecadd3300ca6,api-mining,true,true,true,
+liaochong:myexcel,https://github.com/liaochong/myexcel.git,ff98d4235371450731e4b792891dae58c9616208,myexcel,true,true,true,
+OpenPojo:openpojo,https://github.com/OpenPojo/openpojo.git,00ed7a06b6403e7f64b298a94c63d7ac70735ff9,openpojo,true,true,false,2021-05-16 18:38:01 -0700
+mybatis:velocity-scripting,https://github.com/mybatis/velocity-scripting.git,2fd76a83c0d4098138c1657f31722937d795e144,velocity-scripting,true,true,false,2024-05-26 17:15:17 -0400
+nativelibs4java:JNAerator,https://github.com/nativelibs4java/JNAerator.git,8e8a382a3cc17fbed1dbf626a151d599c53d8baa,JNAerator,true,true,true,
+zalando:problem,https://github.com/zalando/problem.git,6a4b1ed10669028f5005622230ce8463ad8be59b,problem,true,true,true,
+owlike:genson,https://github.com/owlike/genson.git,e00ef3190f91d7bc449d9e165a46cd465d17c1fd,genson,true,true,true,
+basho:riak-java-client,https://github.com/basho/riak-java-client.git,bed6cd60f360bacf1b873ab92dd74f2526651e71,riak-java-client,true,true,false,2018-02-27 17:15:27 +0000
+cucumber:cucumber-jvm,https://github.com/cucumber/cucumber-jvm.git,8e9d4378d33075447764ee1581faddec2181424b,cucumber-jvm,true,true,true,
+penglongli:PBlog,https://github.com/penglongli/PBlog.git,6824591e56afeee5d06c02ab79f47a27584709c1,PBlog,true,true,false,2016-08-28 13:47:41 +0800
+alexvictoor:web-logback,https://github.com/alexvictoor/web-logback.git,51c01491821d5780c595ff4329ebeabbb5008c6c,web-logback,true,true,false,2015-11-22 17:48:16 +0100
+sofastack:sofa-hessian,https://github.com/sofastack/sofa-hessian.git,54bc9654c7f1a573e3e5d92479be9223d9573895,sofa-hessian,true,true,false,2023-06-29 12:04:15 +0800
+fabiomaffioletti:jsondoc,https://github.com/fabiomaffioletti/jsondoc.git,972b966721e0eaf603712e234e58926dfc0dee02,jsondoc,true,true,true,
+vietj:retrofit-vertx,https://github.com/vietj/retrofit-vertx.git,219cbb30d590298c872c97937a2fde3f8db0a44e,retrofit-vertx,true,true,false,2019-11-05 12:02:04 +0100
+notnoop:java-apns,https://github.com/notnoop/java-apns.git,4b02c9e9196087530590bf6442abbf3c35423216,java-apns,true,true,false,2021-03-24 15:31:05 +0100
+zxing:zxing,https://github.com/zxing/zxing.git,2fb22b724660b9af7edd22fc0f88358fdaf63aa1,zxing,true,true,true,
+TridentSDK:TridentSDK,https://github.com/TridentSDK/TridentSDK.git,c60da34d514127551fe05213e59522fbc416fb28,TridentSDK,true,true,false,2017-08-26 10:40:45 -0700
+leangen:graphql-spqr,https://github.com/leangen/graphql-spqr.git,f49d7e93f8743361abafea5188f42182fd1dd7ae,graphql-spqr,true,true,false,2024-01-07 15:03:37 +0100
+siom79:jdrivesync,https://github.com/siom79/jdrivesync.git,9c346ca1f7f2c40f84f9a5332b3f07c5c78ab88a,jdrivesync,true,true,false,2023-09-25 18:19:19 +0000
+forcedotcom:ApexUnit,https://github.com/forcedotcom/ApexUnit.git,76cb288cd2ee691db18064e6bb1b7ca1b0e63056,ApexUnit,true,true,false,2022-02-12 00:36:46 -0800
+j-easy:easy-flows,https://github.com/j-easy/easy-flows.git,768e839ec9ba67f436093f3b3f454b9b56e97dee,easy-flows,true,true,false,2020-11-15 21:07:08 +0100
+tiagobento:watertemplate-engine,https://github.com/tiagobento/watertemplate-engine.git,5d979b97b13c0676100378d2f0b8373fbfd80bd2,watertemplate-engine,true,true,true,
+makersoft:mybatis-shards,https://github.com/makersoft/mybatis-shards.git,35216fd264adfcc1466d2969fdda5e97b2626aa8,mybatis-shards,true,true,false,2021-12-27 22:12:40 +0800
+prometheus:client_java,https://github.com/prometheus/client_java.git,5867b799a735288147bfd9ee680ca588a34490b9,client_java,true,true,true,
+keepcosmos:beanmother,https://github.com/keepcosmos/beanmother.git,860ecb84b339cc2ef905b1ac600897cfd3a27c40,beanmother,true,true,true,
+opennars:opennars,https://github.com/opennars/opennars.git,4d1bdb0f599ccf6ed44edfc398f02f930713d30f,opennars,true,true,false,2020-10-27 23:57:31 +0000
+ribasco:async-gamequery-lib,https://github.com/ribasco/async-gamequery-lib.git,6bcd8919cd3bcac762294cc77c75fcc8472d60c4,async-gamequery-lib,true,true,true,
+uartois:sonar-golang,https://github.com/uartois/sonar-golang.git,c57c5baba1b546642bfdf56d6be8d4ef06edcbf8,sonar-golang,true,true,false,2018-05-19 12:06:40 +0200
+jMotif:sax-vsm_classic,https://github.com/jMotif/sax-vsm_classic.git,cdf870bbb9ef68774186797bcaf26c971db29365,sax-vsm_classic,true,true,false,2022-01-10 20:59:51 +0100
+oracle:weblogic-monitoring-exporter,https://github.com/oracle/weblogic-monitoring-exporter.git,e28017bc85dd4ffe60a27be0debc71718f4f2113,weblogic-monitoring-exporter,true,true,true,
+cloudyrock:mongock,https://github.com/cloudyrock/mongock.git,b979f2da701ee014d8ee5780cc1791a97ce8a3e8,mongock,true,true,true,
+clouway:oauth2-server,https://github.com/clouway/oauth2-server.git,4159a00fb80590f87326703eaea1e71b84c28899,oauth2-server,true,false,true,
+ssaarela:javersion,https://github.com/ssaarela/javersion.git,f4145880a7b350c65608dc9b10d40b6d8daa2e29,javersion,true,true,true,
+oracle:oci-java-sdk,https://github.com/oracle/oci-java-sdk.git,03a774fb7c0a6c643bbef2d2e890bb74143b7519,oci-java-sdk,true,true,true,
+opentelecoms-org:jsmpp,https://github.com/opentelecoms-org/jsmpp.git,e8cc943df4eecc3b947a2d7ac77fb600e1621e48,jsmpp,true,true,true,
+geftimov:hadoop-map-reduce-patterns,https://github.com/geftimov/hadoop-map-reduce-patterns.git,4c3078d0617c0a4c87eb44544ad606ca09a951c8,hadoop-map-reduce-patterns,true,true,false,2022-09-27 11:37:30 +0100
+twilio:twilio-java,https://github.com/twilio/twilio-java.git,68675af8c69f755d78a68f66f19baef59bd3eb95,twilio-java,true,true,false,2024-05-24 11:06:39 +0000
+apereo:java-cas-client,https://github.com/apereo/java-cas-client.git,ddf234d0006d3446509c15f949c2a9c6e1ed925f,java-cas-client,true,true,true,

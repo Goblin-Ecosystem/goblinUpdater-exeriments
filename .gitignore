@@ -1,0 +1,7 @@
+# Ignore build output directory
+target
+
+.idea
+outFiles/*
+.DS_Store
+updater/goblinUpdater-1.0.0-jar-with-dependencies.jar

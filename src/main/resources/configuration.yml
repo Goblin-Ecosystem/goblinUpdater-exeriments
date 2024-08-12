@@ -1,0 +1,3 @@
+---
+experienceToRun: [runUpdater, compileAndTest, naiveUpdate, compareConfQualityAndCost] # available : runUpdater, compileAndTest, naiveUpdate, datasetGenerator, compareConfQualityAndCost
+weaverUrl: http://host.docker.internal:8080
