@@ -1,4 +1,5 @@
 # Update dependencies experimentation
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE.txt)
 
 The results of these experiments are presents here: https://zenodo.org/records/13285362
 
