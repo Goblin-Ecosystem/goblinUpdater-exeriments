@@ -11,7 +11,7 @@ You can regenerate the info dataset by follow the process describe on section "R
 - Docker
 - An active Neo4j database containing the Maven Central dependency graph available (dated April 12, 2024) here: https://zenodo.org/records/10605656
 - An active Goblin Weaver server version 2.0.0 available here: https://github.com/Goblin-Ecosystem/goblinWeaver.
-- Cve dataset (dated May 07, 2024) available here: TODO Zenodo
+- Cve dataset (dated May 07, 2024) available here: https://zenodo.org/records/13285362
 
 ## Setup
 Download the goblin-updater jar "goblinUpdater-1.0.0-jar-with-dependencies.jar", and put it on the "updater" folder at the root of the project.
